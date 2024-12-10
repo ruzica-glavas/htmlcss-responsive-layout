@@ -34,6 +34,9 @@ ul{
 	margin: 0px;
 }
 
+.social-networks button {
+	width: 25%;
+}
 
 
 }
@@ -76,6 +79,9 @@ ul{
 }
 
 
+.social-networks .label {
+	display: inline;
+}
 
 
 
