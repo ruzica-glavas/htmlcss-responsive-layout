@@ -23,13 +23,17 @@ body{
     font-size: 30px;
 }
 
+
 ul{
     display: flex;
-    gap: 10px;
-    flex-basis: calc(100% / 5 -10);
-
-    
+    gap: 30px;
+    flex-wrap: wrap;
 }
+
+.quick-notes li {
+	margin: 0px;
+}
+
 
 
 }
@@ -44,6 +48,16 @@ ul{
     .recipe-name{
         font-size: 40px;
     }
+
+
+
+ul{
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
 
 }
     
