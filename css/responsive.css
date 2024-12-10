@@ -94,6 +94,22 @@ ul{
 	display: inline;
 }
 
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul{
+    flex-direction: row;
+    flex-basis: 60%;
+    gap: 5px;
+}
+
+address{
+
+    flex-basis: 40%;
+    
+}
 
 
 
