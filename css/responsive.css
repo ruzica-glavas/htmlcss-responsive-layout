@@ -43,8 +43,14 @@ ul{
     display: block;
 }
 
+.presentation img{
+    float: left;
+    margin-right: 10px;
+}
 
 }
+
+
 
 
 
