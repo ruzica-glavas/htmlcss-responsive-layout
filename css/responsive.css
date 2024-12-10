@@ -59,5 +59,26 @@ ul{
 
 }
 
+.recipe-video,
+.recipe-card{
+    display: flex;
+    justify-content: center;
+}
+
+.recipe-video{
+    flex-basis: 60%;
+    height: 35vw;
+}
+
+.recipe-card{
+    flex-basis: 40%;
+
+}
+
+
+
+
+
+
 }
     
