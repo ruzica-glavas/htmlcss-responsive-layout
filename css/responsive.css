@@ -80,7 +80,7 @@ ul{
 
 .recipe-video{
     flex-basis: 60%;
-    height: 35vw;
+    height: auto;
 }
 
 .recipe-card{
